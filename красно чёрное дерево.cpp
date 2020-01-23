@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 
-// Лепёха А.А. Б8118-09.03.04прогин(2)
+// Лепёха А.А. Б8118-09.03.04прогин(2)////
 
 /**
  * Красно-черное дерево, элементы которого даты (день и месяц),
@@ -1049,7 +1049,7 @@ public:
 	 *
 	 * @param - day - день, month - месяц
 	 *
-	 * @return - true или false
+	 * @return - true или false////
 	 */
 	bool checkElem(int day, int month)
 	{
